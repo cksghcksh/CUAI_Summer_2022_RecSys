@@ -1,5 +1,3 @@
-# CUAI_Summer_2022_RecSys
-CUAI 2022 Summer Session: RecSys
 ## CUAI Summer Conference Recommendation System Team 10 🚀
 
 
